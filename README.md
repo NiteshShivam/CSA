@@ -1,4 +1,4 @@
-# Step to  use the cross-compiler and an emulator and generate the optimized assembly file.
+# Step to  use the cross-compiler and generate the optimized assembly file.
 
 
 
