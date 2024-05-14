@@ -1,0 +1,12 @@
+{
+    "Fetch Width": 4,
+    "Number of Stages": 7,
+    "Depth of Execution Stages": {
+        "Fetch": 1,
+        "Decode": 6,
+        "Issue": 6,
+        "Execute": 6,
+        "Reorder Buffer": 6,
+        "Commit": 6
+    }
+}
