@@ -25,7 +25,7 @@ below:
 
         riscv-none-elf-size test.elf
 
-7. Issue these commands one after the other.
+7. Install the RISC-V emulator by following these command.
 
         git clone https://github.com/sysprog21/rv32emu
         cd rv32emu
