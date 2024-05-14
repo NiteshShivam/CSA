@@ -1,9 +1,8 @@
 # Step to  use the cross-compiler and generate the optimized assembly file.
 
 
-
-    1.   file xpack-riscv-none-elf-gcc-13.2.0-2-linux-x64.tar.gz should be downloaded first.
-2.      tar -xvjf xpack-riscv-none-elf-gcc-13.2.0-2-linux-x64.tar.gz
+1. file xpack-riscv-none-elf-gcc-13.2.0-2-linux-x64.tar.gz should be downloaded first.
+2. tar -xvjf xpack-riscv-none-elf-gcc-13.2.0-2-linux-x64.tar.gz
 3. Add the path to the bin directory to the PATH environment variable. Use the commands
 below:
 
