@@ -61,7 +61,7 @@ below:
 
 ## Open Google colab file
     1. provid path for *.s file in superscalar section code inside the google colab file.
-    and see the number of cycle taken for running.
+    and see the number of cycles taken for running.
     2. provide the path for *.s in parser code
     one file will be generated ,pass that file into superscalar code and see the number of cycle used.
  
